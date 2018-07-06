@@ -11,5 +11,5 @@ Klicken sie auf „Login“ und wählen „docker“ aus. In dem darauf sich öf
 # Create Session
 In der folgenden Oberfläche, die sich geöffnet hat, müssen Sie auf „ADD NEW INSTANCE“ klicken um starten zu können. Folgendes Oberfläche sollte jetzt erscheinen.
 
-![Docker](../img/Session.jpg)
+![Docker](../img/Konsole.jpg)
 
